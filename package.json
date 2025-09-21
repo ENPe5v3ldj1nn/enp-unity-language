@@ -13,8 +13,7 @@
   },
   "dependencies": {
     "com.unity.textmeshpro": "3.0.6",
-    "com.unity.nuget.newtonsoft-json": "3.0.2",
-    "io.github.enpe5v3ldj1nn.language": "https://github.com/ENPe5v3ldj1nn/enp-unity-language.git#v0.1.0"
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
   }
   ,
   "samples": [
