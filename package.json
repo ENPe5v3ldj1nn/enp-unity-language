@@ -1,0 +1,32 @@
+{
+  "name": "io.github.enpe5v3ldj1nn.language",
+  "displayName": "ENP Language",
+  "version": "0.1.0",
+  "unity": "2021.3",
+  "description": "Simple JSON-based localization utilities for TextMeshPro (TMP). Loads key-value strings from Resources/Languages and updates on language change.",
+  "documentationUrl": "https://github.com/ENPe5v3ldj1nn/unity-language#readme",
+  "changelogUrl": "https://github.com/ENPe5v3ldj1nn/unity-language/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ENPe5v3ldj1nn/unity-language/blob/main/LICENSE",
+  "author": {
+    "name": "ENPe5v3ldj1nn",
+    "url": "https://github.com/ENPe5v3ldj1nn"
+  },
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  },
+  "samples": [
+    {
+      "displayName": "Basic Example",
+      "description": "Example JSON files and a prefab showing LanguageText in action.",
+      "path": "Samples~/Basic Example"
+    }
+  ],
+  "keywords": [
+    "localization",
+    "language",
+    "i18n",
+    "tmp",
+    "utility"
+  ]
+}
