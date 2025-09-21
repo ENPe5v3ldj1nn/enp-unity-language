@@ -4,7 +4,13 @@
 JSON-based localization utilities for TextMeshPro (TMP) with runtime switching.
 
 ## Install (Git URL)
-`https://github.com/ENPe5v3ldj1nn/unity-language.git#v0.1.0`
+
+### Stable (recommended)
+https://github.com/ENPe5v3ldj1nn/enp-unity-language.git#v0.1.0
+
+### Latest (head of main)
+https://github.com/ENPe5v3ldj1nn/enp-unity-language.git
+
 
 ## Quick Start
 1. Put JSON files into `Resources/Languages` (or set a custom path).
